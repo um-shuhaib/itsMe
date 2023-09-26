@@ -5,7 +5,7 @@
 -- lib.page:
 
 -- lib.header:
-logo: $assets.files.assets.logo.jpg
+logo: $assets.files.assets.log11.png
 logo-text: Portfolio
 cta-text-1: Home
 cta-text-2: About
