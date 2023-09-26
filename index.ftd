@@ -6,23 +6,23 @@
 
 -- lib.header:
 logo: $assets.files.assets.log11.png
-logo-text: Portfolio
+logo-text: Ultron Media
 cta-text-1: Home
 cta-text-2: About
-cta-text-3: Resume
+cta-text-3: Contact
 cta-text-1-url: index.html
-cta-text-2-url: index.html
-cta-text-3-url: index.html
+cta-text-2-url: https://www.linkedin.com/in/shuhaib-pm-4255b5221
+cta-text-3-url: https://www.instagram.com/shuhaib.official
 
--- hero-1.hero-1: I'm John Doe
-cta-button-1: Resume
-link-1: https://www.resume.com/
-cta-button-2: Schedule Meeting
-link-2: https://calendly.com/
+-- hero-1.hero-1: I'm Shuhaib P M
+cta-button-1: YouTube
+link-1: https://www.youtube.com/ultronmedia
+cta-button-2: LinkedIn
+link-2: https://www.linkedin.com/in/shuhaib-pm-4255b5221
 cover: $assets.files.assets.1695737505237.jpeg
 
-Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
-Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
+Self-taught full-stack developer who loves to solve problems digitally with top notch technologies. Specialized in web technologies.Eager to learn new technologies.
+My professional goals include working in a challenging environment that allows me to continue learning and growing, and eventually becoming a leader in the tech industry.
 
 
 -- end: lib.page
