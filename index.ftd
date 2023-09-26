@@ -6,7 +6,7 @@
 
 -- lib.header:
 logo: $assets.files.assets.log11.png
-logo-text: UM-shuhaib
+logo-text: SHUHAIB
 cta-text-1: Home
 cta-text-2: About
 cta-text-3: Contact
